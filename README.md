@@ -1,4 +1,4 @@
-# Biopython-Needleman-Wunsch-Algorithm
+# Needleman-Wunsch-Algorithm
 Usage:
 ```python
 class ScoreParam:
